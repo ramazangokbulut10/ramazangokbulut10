@@ -2,7 +2,7 @@
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=I+am+React+Developer💻;)  
 
-<h2>My name is ALPEREN RAMAZAN GÖKBULUT 👩🏻‍💻 </h2> 
+<h2>My name is  RAMAZAN GÖKBULUT 👩🏻‍💻 </h2> 
 
 <h3>About me: </h3> 
  I am a front-end React developer that skilled in developing interactive user interfaces.
