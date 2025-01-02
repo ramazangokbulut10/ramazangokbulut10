@@ -42,14 +42,11 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
-[selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
 [github]: https://github.com/ramazangokbulut10
-[cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
-[testng]: https://testng.org/doc/
 [linkedin]: https://www.linkedin.com/in/ramazangokbulut/
 
 ## Connect with me:
