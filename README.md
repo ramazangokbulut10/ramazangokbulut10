@@ -43,15 +43,5 @@ I have strong analytical and communication skills, work ethic, ability to ask re
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [linkedin]: https://www.linkedin.com/in/ramazangokbulut/
 
-## Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="36px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
 
